@@ -1,1 +1,2 @@
-# Lumia-Offien-Update-Project-
+# Lumia Offien Update Project——Lumia离线更新包项目
+欢迎使用Lumia离线更新包项目！微软不断关闭Windows phone的各项功能的服务器，更新服务器也会在未来的某一天关闭，所以Lumia离线更新包项目就是使用各种发生抓取微软的服务器链接来取得系统的离线更新包，通过iutool来推送至您的Lumia手机以更新系统。
